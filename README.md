@@ -1,4 +1,4 @@
-# RetroPak V8
+# RetroPak
 
 ### *"I heard you like Quake"*
 
