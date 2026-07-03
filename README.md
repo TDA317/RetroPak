@@ -4,13 +4,13 @@
 
 **RetroPak** is a single-file, zero-install, runs-anywhere-with-a-browser tool for cracking open, browsing, editing, and repacking Quake-era game archives. We're talking one HTML file. Drag a `.pak` onto it and you're in.
 
-No server. No Node. No Python. No Electron wrapper. Just double-click `RetroPakV8.html` and go.
+No server. No Node. No Python. No Electron wrapper. Just double-click `RetroPak.html` and go.
 
 It was built using **Antigravity** with **Gemini 3.5** and **GLM 5.2 (Z.AI)** doing the heavy lifting on the code generation side.
 
 ---
 
-## What's New in V8 / V7
+## What's New in V8
 
 ### Quake 3 Arena level support (IBSP v46)
 - **Bezier Patch Tessellation**: Real-time quadratic Bezier curve patch generation for rounded columns, pipes, and arches.
@@ -92,6 +92,6 @@ It was built using **Antigravity** with **Gemini 3.5** and **GLM 5.2 (Z.AI)** do
 
 ## License
 
-This is a personal hobby project. Modify it, learn from it, and hack it to your liking! If you include it in something larger, please credit Antigravity, Gemini 3.5, GLM 5.2 (Z.AI), and TDA317.
+This is a personal hobby project. Modify it, learn from it, and hack it to your liking! If you include it in something larger, please credit TDA317.
 
-*Now double-click and open a map!*
+*Now download the html, double-click, and open a pak!*
